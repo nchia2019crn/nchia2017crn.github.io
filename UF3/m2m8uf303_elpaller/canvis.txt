@@ -1,0 +1,32 @@
+"../imatges/back.gif"
+"../img/back.gif"
+
+"../iimatges/arbre.gif"
+../img/arbre.gif
+
+"file:///125/Users/agm2/Sites/m2c5w04/img/paller.gif"
+"../img/paller.gif"
+
+"file:///125/Users/agm2/Sites/m2c5w04/img/home.gif"
+"../img/home.gif"
+
+"../imatges/acti.gif"
+"../img/acti.gif"
+
+"../imatges/servei.gif" 
+"../img/servei.gif" 
+
+1 canvi
+../imatges/
+../img/
+
+
+2 canvi
+../iimatges/
+../img/
+
+3r canvi
+file:///125/Users/agm2/Sites/m2c5w04/img/
+../img/
+
+

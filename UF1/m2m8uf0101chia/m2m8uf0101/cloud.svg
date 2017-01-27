@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!-- Generator: Adobe Illustrator 18.1.1, SVG Export Plug-In . SVG Version: 6.00 Build 0)  -->
+<svg version="1.1" id="Layer_1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 viewBox="-177 307.475 240.391 226.415" enable-background="new -177 307.475 240.391 226.415" xml:space="preserve">
+<defs>
+	
+	<script  xlink:href="svg.js" language="JavaScript"></script>
+</defs>
+<script  type="text/JavaScript">
+	<![CDATA[
+function notify( ref, type ) {
+    var event = document.createEvent("CustomEvent");
+    event.initEvent(type,true,true);
+    ref.dispatchEvent(event);
+}
+
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		
+		]]>
+</script>
+<g opacity="0.5">
+	<path fill="#FFFFFF" d="M-138.449,463.801c-0.276,0-0.5,0.224-0.5,0.5v1c0,0.276,0.224,0.5,0.5,0.5s0.5-0.224,0.5-0.5v-1
+		C-137.949,464.024-138.173,463.801-138.449,463.801z"/>
+	<path fill="#FFFFFF" d="M38.033,417.978c0.005-0.226,0.018-0.45,0.018-0.677c0-19.725-15.029-35.936-34.261-37.815
+		c-7.206-16.793-25.276-26.998-44.008-23.554c-5.1,0.938-9.787,2.813-13.936,5.4C-60.776,347.981-74.538,338.8-90.45,338.8
+		c-22.322,0-40.423,18.06-40.497,40.365c-18.082,5.535-31.003,20.182-31.003,37.385c0,4.119,0.741,8.093,2.116,11.829
+		c1.311,15.637,14.408,27.921,30.384,27.921h138c16.845,0,30.5-13.655,30.5-30.5C39.051,423.096,38.695,420.475,38.033,417.978z"/>
+</g>
+</svg>
