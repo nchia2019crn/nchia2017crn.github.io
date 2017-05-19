@@ -1,0 +1,64 @@
+<x:xmpmeta xmlns:x="adobe:ns:meta/" x:xmptk="Adobe XMP Core 5.6-c014 79.156821, 2014/08/29-03:07:50        ">
+ <rdf:RDF xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#">
+  <rdf:Description rdf:about=""
+    xmlns:dc="http://purl.org/dc/elements/1.1/"
+    xmlns:xmpMM="http://ns.adobe.com/xap/1.0/mm/"
+    xmlns:stEvt="http://ns.adobe.com/xap/1.0/sType/ResourceEvent#"
+    xmlns:xmp="http://ns.adobe.com/xap/1.0/"
+    xmlns:xmpDM="http://ns.adobe.com/xmp/1.0/DynamicMedia/"
+    xmlns:stDim="http://ns.adobe.com/xap/1.0/sType/Dimensions#"
+   dc:identifier="060A2B340101010501010D111300000010045C03857805A50C7028CFE902BAA5"
+   dc:format="DNxHD MXF OP1a"
+   xmpMM:InstanceID="xmp.iid:b2017052-aa54-462d-8f83-38e1f4a43dd7"
+   xmpMM:DocumentID="41b2eaf0-d47f-fbd1-7324-509100000091"
+   xmpMM:OriginalDocumentID="xmp.did:58cd732f-f729-43d0-9a1e-4d616831d763"
+   xmp:MetadataDate="2017-05-12T17:39:39+02:00"
+   xmp:ModifyDate="2017-05-12T17:39:39+02:00"
+   xmp:CreateDate="2017-05-12T17:38:52+02:00"
+   xmpDM:videoFrameRate="25.000000"
+   xmpDM:videoFieldOrder="Progressive"
+   xmpDM:videoPixelAspectRatio="1/1"
+   xmpDM:audioSampleRate="48000"
+   xmpDM:audioSampleType="16Int"
+   xmpDM:audioChannelType="Stereo"
+   xmpDM:previewRenderOriginalHadNoAlpha="True"
+   xmpDM:startTimeScale="25"
+   xmpDM:startTimeSampleSize="1">
+   <xmpMM:History>
+    <rdf:Seq>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="c59acb57-d7f6-1911-7c75-dcbb000000be"
+      stEvt:when="2017-05-12T17:39:39+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro CC 2014 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:a6cfcdf3-838d-483b-8ee6-e273cb5df4ef"
+      stEvt:when="2017-05-12T17:39:39+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro CC 2014 (Macintosh)"
+      stEvt:changed="/"/>
+     <rdf:li
+      stEvt:action="saved"
+      stEvt:instanceID="xmp.iid:b2017052-aa54-462d-8f83-38e1f4a43dd7"
+      stEvt:when="2017-05-12T17:39:39+02:00"
+      stEvt:softwareAgent="Adobe Premiere Pro CC 2014 (Macintosh)"
+      stEvt:changed="/metadata"/>
+    </rdf:Seq>
+   </xmpMM:History>
+   <xmpDM:videoFrameSize
+    stDim:w="1920"
+    stDim:h="1080"
+    stDim:unit="pixel"/>
+   <xmpDM:duration
+    xmpDM:value="125"
+    xmpDM:scale="1/25"/>
+   <xmpDM:startTimecode
+    xmpDM:timeFormat="25Timecode"
+    xmpDM:timeValue="00:00:00:00"/>
+   <xmpDM:altTimecode
+    xmpDM:timeValue="00:00:00:00"
+    xmpDM:timeFormat="25Timecode"/>
+  </rdf:Description>
+ </rdf:RDF>
+</x:xmpmeta>
